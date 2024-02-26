@@ -1,7 +1,9 @@
-# mini-tailwind-projects
+# Mini Tailwind Projects
+
+Mini projects from a Tailwind CSS Udemy course by Brad Traversy.
 
 ### Email Subscribe Project
 
-Email Subscribe mini-project from my Tailwind course.
+
 
 ![Alt text](email-subscribe/images/email-subscribe.png)
