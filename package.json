@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "scripts": {
+    "build": "npx tailwindcss -i ./email-subscribe/input.css -o ./email-subscribe/style.css",
+    "watch": "npx tailwindcss -i ./email-subscribe/input.css -o ./email-subscribe/style.css --watch"
+  }
+}
